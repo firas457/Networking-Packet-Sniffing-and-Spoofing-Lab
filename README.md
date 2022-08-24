@@ -1,4 +1,4 @@
-# Networking Course Project
+# Networking Project
 ![194-1943259_server-network-diagram-template-network-diagram-with-servers](https://user-images.githubusercontent.com/97015893/186433613-8b38bc20-26ca-4338-8418-4531a26378a6.png)
 # Link for Packet Sniffing and Spoofing Lab: https://seedsecuritylabs.org/Labs_20.04/Files/Sniffing_Spoofing/Sniffing_Spoofing.pdf
 ## Packet Sniffing and Spoofing Lab
